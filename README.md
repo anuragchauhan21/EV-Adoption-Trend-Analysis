@@ -1,11 +1,11 @@
-# Analyzing Electric Vehicle (EV) Adoption Trends Across India
+# Analysing Electric Vehicle (EV) Adoption Trends Across India
 
 ## Overview
-This project explores and analyzes the trends in electric vehicle (EV) adoption across different states in India. By leveraging a comprehensive dataset of state-level EV sales, the analysis focuses on identifying key factors contributing to regional disparities in EV adoption. The insights derived from this study can aid in strategic decision-making for market planning, infrastructure investment, and policy development.
+This project explores and analyses the trends in electric vehicle (EV) adoption across different states in India. By leveraging a comprehensive dataset of state-level EV sales, the analysis focuses on identifying key factors contributing to regional disparities in EV adoption. The insights derived from this study can aid in strategic decision-making for market planning, infrastructure investment, and policy development.
 
 ## Objectives
 - Identify which states have the highest and lowest EV sales.
-- Analyze the distribution of EV sales across various vehicle types and categories.
+- Analyse the distribution of EV sales across various vehicle types and categories.
 - Understand how the adoption of different vehicle types varies across states.
 - Examine the evolution of EV sales over different years.
 - Provide strategic recommendations for enhancing EV adoption across India.
@@ -17,7 +17,7 @@ This project explores and analyzes the trends in electric vehicle (EV) adoption 
 - **State:** Names of Indian states with recorded EV sales data.
 - **Vehicle Type:** Classifications of vehicles, such as two-wheelers and four-wheelers.
 - **Vehicle Category:** Further classification into segments like commercial and passenger vehicles.
-- **Electric_Vehicle_Sales_Quantity:** The number of EVs sold per state, essential for analyzing adoption trends.
+- **Electric_Vehicle_Sales_Quantity:** The number of EVs sold per state, essential for analysing adoption trends.
 
 ## Methodology
 ### Libraries Used
