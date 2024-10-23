@@ -1,4 +1,4 @@
-# Analysing Electric Vehicle (EV) Adoption Trends Across India
+# Analyzing Electric Vehicle (EV) Adoption Trends Across India
 
 ## Overview
 This project explores and analyzes the trends in electric vehicle (EV) adoption across different states in India. By leveraging a comprehensive dataset of state-level EV sales, the analysis focuses on identifying key factors contributing to regional disparities in EV adoption. The insights derived from this study can aid in strategic decision-making for market planning, infrastructure investment, and policy development.
