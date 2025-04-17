@@ -24,5 +24,5 @@ Analyze EV registration trends across Indian states using `10 years` of monthly 
 
 ## Author
 Anurag Chauhan  
-[GitHub Profile](https://github.com/anuragchauhan21)
+[GitHub Profile](https://github.com/anuragchauhan21) | 
 [LinkedIn Profile](https://www.linkedin.com/in/theanuragchauhan)
