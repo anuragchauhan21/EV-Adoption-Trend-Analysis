@@ -1,43 +1,28 @@
-# Analyzing Electric Vehicle (EV) Adoption Trends Across India
+# EV Adoption Trend Analysis (India, 2014–2024)
 
-## Overview
-This project explores and analyzes the trends in electric vehicle (EV) adoption across different states in India. By leveraging a comprehensive dataset of state-level EV sales, the analysis focuses on identifying key factors contributing to regional disparities in EV adoption. The insights derived from this study can aid in strategic decision-making for market planning, infrastructure investment, and policy development.
-
-## Objectives
-- Identify which states have the highest and lowest EV sales.
-- Analyze the distribution of EV sales across various vehicle types and categories.
-- Understand how the adoption of different vehicle types varies across states.
-- Examine the evolution of EV sales over different years.
-- Provide strategic recommendations for enhancing EV adoption across India.
+## Objective
+Analyze EV registration trends across Indian states using `10 years` of monthly data to identify key patterns, regional disparities, and actionable business insights.
 
 ## Dataset
-**EV_Dataset.csv:** Contains state-level data on EV sales, including vehicle types and categories, offering a comprehensive view of EV distribution across Indian states.
+- Source: Kaggle (open-source)
+- Size: 1M+ rows (2014–2024)
+- Key Columns: State, Date, Vehicle_Type, Vehicle_Category, Vehicle_Class, EV_Sales_Quantity
 
-## Key Features:
-- **State:** Names of Indian states with recorded EV sales data.
-- **Vehicle Type:** Classifications of vehicles, such as two-wheelers and four-wheelers.
-- **Vehicle Category:** Further classification into segments like commercial and passenger vehicles.
-- **Electric_Vehicle_Sales_Quantity:** The number of EVs sold per state, essential for analyzing adoption trends.
+## Tools & Libraries
+`Python` (pandas, numpy, matplotlib, seaborn), `Jupyter Notebook`
 
-## Methodology
-**Libraries Used:**
-- numpy
-- pandas
-- matplotlib
-- seaborn
+## Key Steps
+- Cleaned and standardized raw monthly EV registration data
+- Performed state-wise and category-wise EDA using groupby and pivot techniques
+- Created `line plot` to analyze EV growth over time, `bar plot` to compare vehicle types and states, and `heatmaps` to visualize adoption patterns across India
+- Uncovered trends by geography, vehicle category, and usage type
 
-**Steps:**
-1. **Data Cleaning and Preparation:** Ensuring the dataset is accurate and ready for analysis.
-2. **Exploratory Data Analysis (EDA):** Generating summary statistics and visualizing the data to uncover trends and patterns.
-3. **Visualization:** Creating bar plots, heatmaps, and line plots to illustrate key findings.
-4. **Insights and Recommendations:** Drawing conclusions from the analysis and proposing actionable strategies to improve EV adoption.
+## Key Insights
+- EV adoption surged by over *200% post-2019*, indicating policy influence and awareness towards adoption EV vehicles.
+- *Uttar Pradesh*, *Maharashtra*, *Karnataka*, and *Delhi* lead in total EV sales
+- Two-wheelers dominate EV adoption, especially in urban states for personal transport
 
-## Key Findings
-- **Total EV Sales by State:** Uttar Pradesh, Maharashtra, Karnataka, and Delhi have the highest EV sales, while Ladakh, Nagaland, Arunachal Pradesh, and Sikkim have the lowest.
-- **Distribution of EV Sales Across Different Vehicle Types:** Two-wheelers are the most popular, followed by three-wheelers and four-wheelers.
-- **Popularity of Vehicle Categories (Commercial vs. Passenger):** Passenger vehicles have significantly higher sales compared to commercial vehicles.
-- **Adoption of Different Vehicle Types Across States:** High variation in adoption patterns, with some states leading in specific vehicle types.
-- **EV Sales Over the Years:** A consistent upward trend in EV sales.
-
-## Conclusion
-This project provides a detailed analysis of EV adoption trends across India, highlighting regional disparities and offering strategic recommendations to boost EV sales. The findings can assist policymakers, market analysts, and businesses in making informed decisions to promote the adoption of electric vehicles.
+## Author
+Anurag Chauhan  
+[GitHub Profile](https://github.com/anuragchauhan21)
+[LinkedIn Profile](https://www.linkedin.com/in/theanuragchauhan)
