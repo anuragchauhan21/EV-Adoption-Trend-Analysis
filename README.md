@@ -3,6 +3,8 @@
 ## Objective
 Analyze EV registration trends across Indian states using `10 years` of monthly data to identify key patterns, regional disparities, and actionable business insights.
 
+![analysis glimpse](https://github.com/anuragchauhan21/garage/blob/main/download.png)
+
 ## Dataset
 - Source: Kaggle (open-source)
 - Size: 1M+ rows (2014–2024)
